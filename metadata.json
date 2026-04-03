@@ -1,0 +1,8 @@
+{
+  "name": "Python cùng thầy Kha - bản gốc",
+  "description": "Ứng dụng học lập trình Python tương tác cùng Thầy Kha. Hỗ trợ chạy code, giải đáp thắc mắc qua AI, và thử thách lập trình từ cơ bản đến nâng cao (HSG).",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
